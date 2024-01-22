@@ -1,8 +1,11 @@
 import { Box, SxProps, Theme } from "@mui/material";
-
+import logo from "../../resources/work1/images/logo.png";
 export const Header = () => {
   return (
     <Box className="Header" sx={sx}>
+
+        <img width = "100%" height =  "70px" src = {logo} />
+
       <Box className="Top" sx={sx}>TOP</Box>
       <Box className="service" sx={sx}>SERVICE</Box>
       <Box className="company" sx={sx}>COMPANY</Box>
@@ -17,14 +20,18 @@ export const Header = () => {
 
 const sx: SxProps<Theme> = {
   "&.Header" : {
+    position: "absolute",
     display: "flex",
     width: "100%",
     height: 60,
-    borderBottom: "solid",
+
+    
   },
+
+
   "&.Top" : {
     marginTop: 2.5,
-    marginLeft: 120,
+    marginLeft: 70,
 
   },
   "&.service" : {
