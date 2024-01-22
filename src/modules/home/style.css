@@ -1,0 +1,124 @@
+.header {
+    z-index: 1;
+}
+
+.rogo {
+    position: absolute;
+    left:100px;
+    top:10px;
+}
+
+.linkhako {
+    width:600px;
+    height:100px;
+    margin-left: 680px;
+    position: absolute;
+}
+
+.dekakuro {
+    width: 200px;
+    height:100px;
+    position: absolute;
+    margin-left: 1240px;
+    background-color:#23a1b9;
+ 
+    
+}
+
+.hed {
+    font-size: 25px;
+    margin-top:15px;
+    color:white;
+    float: left;
+    font-weight: 500;
+    padding: 25px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.con {
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 25px;
+    left:40px;
+    top:40px;
+
+
+}
+
+.Mainvisual {
+    background-image: url("../../resources/work1/images/nasa.jpg");
+    background-size: 100%;
+}
+
+
+
+
+.dekagazou {
+    width: 100%;
+    height:800px;
+    position: relative;
+    /* opacity: 80%; */
+}
+
+.dekamoji {
+    position: absolute;
+    font-family:initial;
+    font-size: 100px;
+    top:250px;
+    left:140px;
+    text-decoration: underline;
+    color: white;
+
+
+
+}
+
+.uso {
+    position: absolute;
+    font-size: 60px;
+    top:500px;
+    left:130px;
+    color: white;
+}
+
+.title {
+    position:absolute;
+    display: flex;
+    font-size: 50px;
+    top:30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    left: 40%;
+}
+
+
+.title .uni {
+    color:#23a1b9;
+}
+
+.title .ab {
+    margin-left:10px;
+    color: rgb(59, 59, 59);
+}
+
+.watasitati {
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(59, 59, 59);
+    left:44%;
+    top:130px;
+
+}
+
+.minigazou {
+    position: absolute;
+    top:250px;
+    left:210px;
+    width: 1000px;
+    height:500px;
+}
