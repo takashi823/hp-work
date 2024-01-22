@@ -28,7 +28,6 @@ const sx: SxProps<Theme> = {
     width: "100%",
     height:"100px",
     position:"absolute",
-    zIndex:"0",
 
 
   },
