@@ -15,6 +15,7 @@ export const HomePage = () => {
     <Box className="HomePage" sx={sx}>
         <Header />
         <Mainvisual />
+        <About />
     </Box>
   );
 };
