@@ -122,3 +122,73 @@
     width: 1000px;
     height:500px;
 }
+
+.gyoume1 {
+    position:absolute;
+    top:850px;
+    left:500px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.gyoume2 {
+    position:absolute;
+    top:880px;
+    left:300px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.gyoume3 {
+    position:absolute;
+    top:910px;
+    left:470px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.gyoume4 {
+    position:absolute;
+    top:960px;
+    left:470px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.gyoume5 {
+    position:absolute;
+    top:990px;
+    left:350px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.gyoume6 {
+    position:absolute;
+    top:1020px;
+    left:430px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.gyoume7 {
+    position:absolute;
+    top:1050px;
+    left:450px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}

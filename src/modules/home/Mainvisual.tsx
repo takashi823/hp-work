@@ -13,5 +13,6 @@ const sx: SxProps<Theme> = {
   "&.Mainvisual" : {
     width: "100%",
     height:"800px",
+    zIndex:"10",
   },
 };

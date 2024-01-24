@@ -27,7 +27,9 @@ const sx: SxProps<Theme> = {
   "&.Header" : {
     width: "100%",
     height:"100px",
-    position:"absolute",
+    position:"fixed",
+    top:"0px",
+    zIndex:"100",
 
 
   },
