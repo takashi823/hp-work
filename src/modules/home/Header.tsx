@@ -32,23 +32,27 @@ const sx: SxProps<Theme> = {
   "&.Top" : {
     marginTop: 2.5,
     marginLeft: 70,
+    color: "white"
 
   },
   "&.service" : {
     marginTop: 2.5,
     marginLeft: 6,
+    color: "white"
 
   },
   "&.company" : {
     marginTop: 2.5,
     marginLeft: 6,
+    color: "white"
 
   },
   "&.contact" : {
     marginLeft: 4,
     width: "100%",
     height:"100%",
-    backgroundColor: "aqua",
+    backgroundColor: "#22a1b9",
+    color: "white"
   },
   "&.contact-text" : {
     marginTop: 2.5,

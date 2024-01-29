@@ -51,4 +51,5 @@ const sx: SxProps<Theme> = {
     paddingLeft: 30,
 
   },
+  
 };
