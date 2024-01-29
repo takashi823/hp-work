@@ -6,8 +6,7 @@ export const About = () => {
   return (
     <Box className="About" sx={sx}>
     <Box className="title" sx={sx}>
-          <Box className="a" sx={sx}>A</Box>
-          <Box className="bout" sx={sx}>bout</Box>
+          <Box className="bout" sx={sx}><span style={{ color: '#23a1b9' }}>A</span>BOUT</Box>
     </Box>
     <Box className="subtitle" sx={sx}>私たちについて</Box>
     <Box className="img" sx={sx}>
@@ -47,7 +46,8 @@ const sx: SxProps<Theme> = {
   },
 
   "&.bout" : {
-    paddingLeft: 0,
+    letterSpacing: 8,
+    paddingLeft: 75,
     fontSize: 70
   },
 
